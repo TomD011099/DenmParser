@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pcap-test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pcap_test_jar</output-path>
+    <root id="archive" name="pcap-test.jar">
+      <element id="module-output" name="pcap-test" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.30/slf4j-simple-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-packetfactory-static/1.8.2/pcap4j-packetfactory-static-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20201115/json-20201115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-core/1.8.2/pcap4j-core-1.8.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: net.java.dev.jna:jna:5.3.1" />
+      <element id="library" level="project" name="Maven: org.json:json:20201115" />
+      <element id="library" level="project" name="Maven: org.pcap4j:pcap4j-packetfactory-static:1.8.2" />
+      <element id="library" level="project" name="Maven: org.pcap4j:pcap4j-core:1.8.2" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.7.30" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.30" />
+    </root>
+  </artifact>
+</component>
